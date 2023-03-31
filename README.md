@@ -1,20 +1,18 @@
 # Projekt kierunkowy
 
-Ten projekt kierunkowy został stworzony w ramach kierunku Informatyka na Wydziale Finansów i Zarządzania na WSB we Wrocławiu w roku 2023 pod kierownictwem mgr inż. Emila Bakalarza.
+Ten projekt został stworzony w ramach kierunku Informatyka specjalizacja tester oprogramowania, na Wydziale Finansów i Zarządzania w Wyższej Szkole Bankowej we Wrocławiu w roku 2023 pod kierownictwem mgr inż. Emila Bakalarza.
 
 ### Cel projektu
 
-Celem projektu jest zbadanie roli systemów monitoringu IT jako mechanizmu ciągłego testowania infrastruktury i oprogramowania. Wraz z rozwojem technologii IT, coraz więcej firm zdaje sobie sprawę z konieczności ciągłego monitorowania swojej infrastruktury i oprogramowania, aby zapewnić ich niezawodność i wydajność.
+Celem projektu jest zbadanie, jaką rolę pełnią systemy monitoringu IT w mechaniźmie ciągłego testowania infrastruktury i oprogramowania. Wraz z postępem technologii IT, firmy coraz bardziej uświadamiają sobie konieczność ciągłego monitorowania narzędzi wykorzystywanych w przedsiębiorstwie, w celu zapewnienia ich niezawodności i wydajności.
 
 ### Metodologia
 
-W ramach projektu zostaną przeprowadzone badania na temat różnych systemów monitoringu IT, w tym narzędzi do monitorowania sieci, serwerów, aplikacji oraz usług chmurowych. Przetestujemy również sposoby integracji tych narzędzi z systemami automatycznego testowania i dostarczymy rekomendacje dotyczące optymalnych rozwiązań w tym obszarze.
-
-Oprócz tego, w ramach projektu zostaną przeprowadzone szkolenia dla personelu IT na temat najlepszych praktyk związanych z systemami monitoringu IT i ich roli w ciągłym testowaniu infrastruktury i oprogramowania.
+W ramach projektu zostaną przeprowadzone badania na temat różnych systemów monitoringu IT, w tym narzędzi do monitorowania sieci, serwerów, aplikacji oraz usług chmurowych. Przetestuję również sposoby integracji tych narzędzi z systemami automatycznego testowania i dostarczę rekomendacje dotyczące optymalnych rozwiązań w tym obszarze.
 
 ### Wyniki projektu
 
-Wszystkie wyniki projektu zostaną udokumentowane w formie raportu końcowego, który będzie dostępny dla zainteresowanych osób i instytucji.
+Wyniki projektu zostaną udokumentowane w formie raportów, które będą dostępne w pliku finalnym pracy dyplomowej. Samodzielnie napisane skrypty do niezbędnych testów oraz grafiki przygotowane celem przedstawienia infrastruktury, będą umieszczone w odpowiednich folderach.
 
 #### Kontakt
 
