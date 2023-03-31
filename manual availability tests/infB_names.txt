@@ -1,0 +1,9 @@
+serverA-eth1
+router
+camera
+computer
+server-iDRAC
+serverB-eth0
+windows-desktop
+server-nvr
+linux-desktop
