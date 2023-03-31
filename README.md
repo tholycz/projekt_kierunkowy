@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/tholycz/projekt_kierunkowy/blob/main/graphic%20materials/title.gif" alt="Tytuł" style="display: block; margin: 0 auto;">
 </div
-
-Ten projekt został stworzony w ramach kierunku Informatyka specjalizacja tester oprogramowania, na Wydziale Finansów i Zarządzania w Wyższej Szkole Bankowej we Wrocławiu w roku 2023 pod kierownictwem mgr inż. Emila Bakalarza.
-
+  
+---
+  
 ### <div align="center"> Cel projektu
 
 Celem projektu jest zbadanie, jaką rolę pełnią systemy monitoringu IT w mechaniźmie ciągłego testowania infrastruktury i oprogramowania. Wraz z postępem technologii IT, firmy coraz bardziej uświadamiają sobie konieczność ciągłego monitorowania narzędzi wykorzystywanych w przedsiębiorstwie, w celu zapewnienia ich niezawodności i wydajności.
