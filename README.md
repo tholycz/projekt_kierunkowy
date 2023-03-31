@@ -1,3 +1,5 @@
+![title](./graphic materials/title.gif)
+
 # Projekt kierunkowy
 
 Ten projekt został stworzony w ramach kierunku Informatyka specjalizacja tester oprogramowania, na Wydziale Finansów i Zarządzania w Wyższej Szkole Bankowej we Wrocławiu w roku 2023 pod kierownictwem mgr inż. Emila Bakalarza.
