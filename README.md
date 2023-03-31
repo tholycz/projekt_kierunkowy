@@ -18,6 +18,8 @@ W ramach projektu zostaną przeprowadzone badania na temat różnych systemów m
 - iDRAC
 - Synology DiskStation
 - SADP
+- draw.io
+- 
 
 ### <div align="center"> Wyniki projektu
 
