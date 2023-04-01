@@ -1,0 +1,996 @@
+2023-03-31 18:15:52 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:15:52 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:15:52 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-03-31 18:15:52 Plik raportu dla jednostki router istnieje
+2023-03-31 18:15:52 Plik raportu dla jednostki camera istnieje
+2023-03-31 18:15:52 Plik raportu dla jednostki computer istnieje
+2023-03-31 18:15:52 Plik raportu dla jednostki server-iDRAC istnieje
+2023-03-31 18:15:52 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-03-31 18:15:52 Plik raportu dla jednostki windows-desktop istnieje
+2023-03-31 18:15:52 Plik raportu dla jednostki server-nvr istnieje
+2023-03-31 18:15:52 Plik raportu dla jednostki linux-desktop istnieje
+2023-03-31 18:15:52 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:22:02 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:22:02 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:22:02 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-03-31 18:22:02 Plik raportu dla jednostki router istnieje
+2023-03-31 18:22:02 Plik raportu dla jednostki camera istnieje
+2023-03-31 18:22:02 Plik raportu dla jednostki computer istnieje
+2023-03-31 18:22:02 Plik raportu dla jednostki server-iDRAC istnieje
+2023-03-31 18:22:02 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-03-31 18:22:02 Plik raportu dla jednostki windows-desktop istnieje
+2023-03-31 18:22:02 Plik raportu dla jednostki server-nvr istnieje
+2023-03-31 18:22:02 Plik raportu dla jednostki linux-desktop istnieje
+2023-03-31 18:22:02 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:22:02 wyczyszczono zawartość pliku files.txt
+2023-03-31 18:22:02 wczytano listę plików raportów indywidualnych do pliku files.txt
+2023-03-31 18:22:02 wczytano listę plików raportów indywidualnych do zmiennej files
+2023-03-31 18:34:29 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:34:29 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:34:29 Plik raportu dla jednostki serverA-eth1 nie istniał i został utworzony
+2023-03-31 18:34:29 Plik raportu dla jednostki router nie istniał i został utworzony
+2023-03-31 18:34:29 Plik raportu dla jednostki camera nie istniał i został utworzony
+2023-03-31 18:34:29 Plik raportu dla jednostki computer nie istniał i został utworzony
+2023-03-31 18:34:29 Plik raportu dla jednostki server-iDRAC nie istniał i został utworzony
+2023-03-31 18:34:29 Plik raportu dla jednostki serverB-eth0 nie istniał i został utworzony
+2023-03-31 18:34:29 Plik raportu dla jednostki windows-desktop nie istniał i został utworzony
+2023-03-31 18:34:29 Plik raportu dla jednostki server-nvr nie istniał i został utworzony
+2023-03-31 18:34:29 Plik raportu dla jednostki linux-desktop nie istniał i został utworzony
+2023-03-31 18:34:29 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:35:07 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:35:07 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:35:07 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-03-31 18:35:07 Plik raportu dla jednostki router istnieje
+2023-03-31 18:35:07 Plik raportu dla jednostki camera istnieje
+2023-03-31 18:35:07 Plik raportu dla jednostki computer istnieje
+2023-03-31 18:35:07 Plik raportu dla jednostki server-iDRAC istnieje
+2023-03-31 18:35:07 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-03-31 18:35:07 Plik raportu dla jednostki windows-desktop istnieje
+2023-03-31 18:35:07 Plik raportu dla jednostki server-nvr istnieje
+2023-03-31 18:35:07 Plik raportu dla jednostki linux-desktop istnieje
+2023-03-31 18:35:07 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:35:17 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:35:17 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:35:17 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-03-31 18:35:17 Plik raportu dla jednostki router istnieje
+2023-03-31 18:35:17 Plik raportu dla jednostki camera istnieje
+2023-03-31 18:35:17 Plik raportu dla jednostki computer istnieje
+2023-03-31 18:35:17 Plik raportu dla jednostki server-iDRAC istnieje
+2023-03-31 18:35:17 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-03-31 18:35:17 Plik raportu dla jednostki windows-desktop istnieje
+2023-03-31 18:35:17 Plik raportu dla jednostki server-nvr istnieje
+2023-03-31 18:35:17 Plik raportu dla jednostki linux-desktop istnieje
+2023-03-31 18:35:17 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:35:19 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:35:19 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:35:19 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-03-31 18:35:19 Plik raportu dla jednostki router istnieje
+2023-03-31 18:35:19 Plik raportu dla jednostki camera istnieje
+2023-03-31 18:35:19 Plik raportu dla jednostki computer istnieje
+2023-03-31 18:35:19 Plik raportu dla jednostki server-iDRAC istnieje
+2023-03-31 18:35:19 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-03-31 18:35:19 Plik raportu dla jednostki windows-desktop istnieje
+2023-03-31 18:35:19 Plik raportu dla jednostki server-nvr istnieje
+2023-03-31 18:35:19 Plik raportu dla jednostki linux-desktop istnieje
+2023-03-31 18:35:19 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:35:46 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:35:46 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:35:46 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-03-31 18:35:46 Plik raportu dla jednostki router istnieje
+2023-03-31 18:35:46 Plik raportu dla jednostki camera istnieje
+2023-03-31 18:35:46 Plik raportu dla jednostki computer istnieje
+2023-03-31 18:35:46 Plik raportu dla jednostki server-iDRAC istnieje
+2023-03-31 18:35:46 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-03-31 18:35:46 Plik raportu dla jednostki windows-desktop istnieje
+2023-03-31 18:35:46 Plik raportu dla jednostki server-nvr istnieje
+2023-03-31 18:35:46 Plik raportu dla jednostki linux-desktop istnieje
+2023-03-31 18:35:46 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:35:46 wyczyszczono zawartość pliku files.txt
+2023-03-31 18:35:46 wczytano listę plików raportów indywidualnych do pliku files.txt
+2023-03-31 18:35:46 wczytano listę plików raportów indywidualnych do zmiennej files
+2023-03-31 18:36:45 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:36:45 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:36:45 Plik raportu dla jednostki serverA-eth1 nie istniał i został utworzony
+2023-03-31 18:36:45 Plik raportu dla jednostki router nie istniał i został utworzony
+2023-03-31 18:36:45 Plik raportu dla jednostki camera nie istniał i został utworzony
+2023-03-31 18:36:45 Plik raportu dla jednostki computer nie istniał i został utworzony
+2023-03-31 18:36:45 Plik raportu dla jednostki server-iDRAC nie istniał i został utworzony
+2023-03-31 18:36:45 Plik raportu dla jednostki serverB-eth0 nie istniał i został utworzony
+2023-03-31 18:36:45 Plik raportu dla jednostki windows-desktop nie istniał i został utworzony
+2023-03-31 18:36:45 Plik raportu dla jednostki server-nvr nie istniał i został utworzony
+2023-03-31 18:36:45 Plik raportu dla jednostki linux-desktop nie istniał i został utworzony
+2023-03-31 18:36:45 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:39:56 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:39:56 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:39:56 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-03-31 18:39:56 Plik raportu dla jednostki router istnieje
+2023-03-31 18:39:56 Plik raportu dla jednostki camera istnieje
+2023-03-31 18:39:56 Plik raportu dla jednostki computer istnieje
+2023-03-31 18:39:56 Plik raportu dla jednostki server-iDRAC istnieje
+2023-03-31 18:39:56 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-03-31 18:39:56 Plik raportu dla jednostki windows-desktop istnieje
+2023-03-31 18:39:56 Plik raportu dla jednostki server-nvr istnieje
+2023-03-31 18:39:56 Plik raportu dla jednostki linux-desktop istnieje
+2023-03-31 18:39:56 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:41:28 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:41:28 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:41:28 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-03-31 18:41:28 Plik raportu dla jednostki router istnieje
+2023-03-31 18:41:28 Plik raportu dla jednostki camera istnieje
+2023-03-31 18:41:28 Plik raportu dla jednostki computer istnieje
+2023-03-31 18:41:28 Plik raportu dla jednostki server-iDRAC istnieje
+2023-03-31 18:41:28 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-03-31 18:41:28 Plik raportu dla jednostki windows-desktop istnieje
+2023-03-31 18:41:28 Plik raportu dla jednostki server-nvr istnieje
+2023-03-31 18:41:28 Plik raportu dla jednostki linux-desktop istnieje
+2023-03-31 18:41:28 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-03-31 18:57:15 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-03-31 18:57:15 wczytano tablicę nazw urządzeń do zmiennej names
+2023-03-31 18:57:15 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-03-31 18:57:15 Plik raportu dla jednostki router istnieje
+2023-03-31 18:57:15 Plik raportu dla jednostki camera istnieje
+2023-03-31 18:57:15 Plik raportu dla jednostki computer istnieje
+2023-03-31 18:57:15 Plik raportu dla jednostki server-iDRAC istnieje
+2023-03-31 18:57:15 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-03-31 18:57:15 Plik raportu dla jednostki windows-desktop istnieje
+2023-03-31 18:57:15 Plik raportu dla jednostki server-nvr istnieje
+2023-03-31 18:57:15 Plik raportu dla jednostki linux-desktop istnieje
+2023-03-31 18:57:15 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 07:34:04 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 07:34:04 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 07:34:04 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 07:34:04 Plik raportu dla jednostki router istnieje
+2023-04-01 07:34:04 Plik raportu dla jednostki camera istnieje
+2023-04-01 07:34:04 Plik raportu dla jednostki computer istnieje
+2023-04-01 07:34:04 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 07:34:04 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 07:34:04 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 07:34:04 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 07:34:04 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 07:34:04 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:20:12 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:20:12 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:20:12 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:20:12 Plik raportu dla jednostki router istnieje
+2023-04-01 08:20:12 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:20:12 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:20:12 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:20:12 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:20:12 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:20:12 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:20:12 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:20:12 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:20:12 wyczyszczono zawartość pliku files.txt
+2023-04-01 08:20:12 wczytano listę plików raportów indywidualnych do pliku files.txt
+2023-04-01 08:20:12 wczytano listę plików raportów indywidualnych do zmiennej files
+=== Trying smtp.wp.pl:587...
+=== Connected to smtp.wp.pl.
+<-  220 smtp.wp.pl ESMTP
+ -> EHLO c0cc94afe660
+<-  250-smtp.wp.pl
+<-  250-PIPELINING
+<-  250-AUTH=LOGIN PLAIN
+<-  250-AUTH LOGIN PLAIN
+<-  250-STARTTLS
+<-  250-SIZE
+<-  250-X-RCPTLIMIT 100
+<-  250 8BITMIME
+ -> STARTTLS
+<-  220 ready for tls
+=== TLS started with cipher TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256
+=== TLS no local certificate set
+=== TLS peer DN="/CN=*.wp.pl"
+ ~> EHLO c0cc94afe660
+<~  250-smtp.wp.pl
+<~  250-PIPELINING
+<~  250-AUTH=LOGIN PLAIN
+<~  250-AUTH LOGIN PLAIN
+<~  250-SIZE
+<~  250-X-RCPTLIMIT 100
+<~  250 8BITMIME
+ ~> AUTH LOGIN
+<~  334 VXNlcm5hbWU6
+ ~> dGV0aWFuYS5ob2x5Y2hAd3AucGw=
+<~  334 UGFzc3dvcmQ6
+ ~> RFRzRmgzc0Y2YW14Q0VHUA==
+<~  235 go ahead
+ ~> MAIL FROM:<tetiana.holych@wp.pl>
+<~  250 ok
+ ~> RCPT TO:<tetiana.wolender@gmail.com>
+<~  250 ok
+ ~> DATA
+<~  354 go ahead
+ ~> Date: Sat, 01 Apr 2023 08:20:12 +0000
+ ~> To: tetiana.wolender@gmail.com
+ ~> From: tetiana.holych@wp.pl
+ ~> Subject: !!! AWARIA!!!
+ ~> Message-Id: <20230401082012.107299@c0cc94afe660>
+ ~> X-Mailer: swaks v20201014.0 jetmore.org/john/code/swaks/
+ ~> 
+ ~> !!! ALARM !!! Jednostka serverA-eth1 jest niedostępna
+ ~> !!! ALARM !!! Jednostka router jest niedostępna
+ ~> !!! ALARM !!! Jednostka computer jest niedostępna
+ ~> !!! ALARM !!! Jednostka server-iDRAC jest niedostępna
+ ~> !!! ALARM !!! Jednostka serverB-eth0 jest niedostępna
+ ~> !!! ALARM !!! Jednostka windows-desktop jest niedostępna
+ ~> !!! ALARM !!! Jednostka server-nvr jest niedostępna
+ ~> !!! ALARM !!! Jednostka linux-desktop jest niedostępna
+ ~> !!! ALARM !!! Jednostka camera jest niedostępna
+ ~> !!! ALARM !!! Jednostka serverA-eth1 jest niedostępna
+ ~> !!! ALARM !!! Jednostka router jest niedostępna
+ ~> !!! ALARM !!! Jednostka camera jest niedostępna
+ ~> !!! ALARM !!! Jednostka computer jest niedostępna
+ ~> !!! ALARM !!! Jednostka server-iDRAC jest niedostępna
+ ~> !!! ALARM !!! Jednostka serverB-eth0 jest niedostępna
+ ~> !!! ALARM !!! Jednostka windows-desktop jest niedostępna
+ ~> !!! ALARM !!! Jednostka server-nvr jest niedostępna
+ ~> !!! ALARM !!! Jednostka linux-desktop jest niedostępna
+ ~> !!! ALARM !!! Jednostka serverA-eth1 jest niedostępna
+ ~> !!! ALARM !!! Jednostka router jest niedostępna
+ ~> !!! ALARM !!! Jednostka camera jest niedostępna
+ ~> !!! ALARM !!! Jednostka computer jest niedostępna
+ ~> !!! ALARM !!! Jednostka server-iDRAC jest niedostępna
+ ~> !!! ALARM !!! Jednostka serverB-eth0 jest niedostępna
+ ~> !!! ALARM !!! Jednostka windows-desktop jest niedostępna
+ ~> !!! ALARM !!! Jednostka server-nvr jest niedostępna
+ ~> !!! ALARM !!! Jednostka linux-desktop jest niedostępna
+ ~> 
+ ~> 
+ ~> .
+<~  250 ok 1680337217 qp 25583 mailid abbc8257053a8847f8ba8a7bac31152a
+ ~> QUIT
+<~  221 smtp.wp.pl
+=== Connection closed with remote host.
+2023-04-01 08:25:12 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:25:12 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:25:12 Plik raportu dla jednostki serverA-eth1 nie istniał i został utworzony
+2023-04-01 08:25:12 Plik raportu dla jednostki router nie istniał i został utworzony
+2023-04-01 08:25:12 Plik raportu dla jednostki camera nie istniał i został utworzony
+2023-04-01 08:25:12 Plik raportu dla jednostki computer nie istniał i został utworzony
+2023-04-01 08:25:12 Plik raportu dla jednostki server-iDRAC nie istniał i został utworzony
+2023-04-01 08:25:12 Plik raportu dla jednostki serverB-eth0 nie istniał i został utworzony
+2023-04-01 08:25:12 Plik raportu dla jednostki windows-desktop nie istniał i został utworzony
+2023-04-01 08:25:12 Plik raportu dla jednostki server-nvr nie istniał i został utworzony
+2023-04-01 08:25:12 Plik raportu dla jednostki linux-desktop nie istniał i został utworzony
+2023-04-01 08:25:12 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:25:36 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:25:36 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:25:36 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:25:36 Plik raportu dla jednostki router istnieje
+2023-04-01 08:25:36 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:25:36 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:25:36 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:25:36 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:25:36 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:25:36 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:25:36 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:25:36 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:26:37 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:26:37 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:26:37 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:26:37 Plik raportu dla jednostki router istnieje
+2023-04-01 08:26:37 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:26:37 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:26:37 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:26:37 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:26:37 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:26:37 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:26:37 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:26:37 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:27:07 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:27:07 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:27:07 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:27:07 Plik raportu dla jednostki router istnieje
+2023-04-01 08:27:07 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:27:07 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:27:07 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:27:07 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:27:07 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:27:07 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:27:07 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:27:07 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:27:48 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:27:48 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:27:48 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:27:48 Plik raportu dla jednostki router istnieje
+2023-04-01 08:27:48 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:27:48 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:27:48 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:27:48 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:27:48 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:27:48 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:27:48 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:27:48 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:27:48 wyczyszczono zawartość pliku files.txt
+2023-04-01 08:27:48 wczytano listę plików raportów indywidualnych do pliku files.txt
+2023-04-01 08:27:48 wczytano listę plików raportów indywidualnych do zmiennej files
+=== Trying smtp.wp.pl:587...
+=== Connected to smtp.wp.pl.
+<-  220 smtp.wp.pl ESMTP
+ -> EHLO c0cc94afe660
+<-  250-smtp.wp.pl
+<-  250-PIPELINING
+<-  250-AUTH=LOGIN PLAIN
+<-  250-AUTH LOGIN PLAIN
+<-  250-STARTTLS
+<-  250-SIZE
+<-  250-X-RCPTLIMIT 100
+<-  250 8BITMIME
+ -> STARTTLS
+<-  220 ready for tls
+=== TLS started with cipher TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256
+=== TLS no local certificate set
+=== TLS peer DN="/CN=*.wp.pl"
+ ~> EHLO c0cc94afe660
+<~  250-smtp.wp.pl
+<~  250-PIPELINING
+<~  250-AUTH=LOGIN PLAIN
+<~  250-AUTH LOGIN PLAIN
+<~  250-SIZE
+<~  250-X-RCPTLIMIT 100
+<~  250 8BITMIME
+ ~> AUTH LOGIN
+<~  334 VXNlcm5hbWU6
+ ~> dGV0aWFuYS5ob2x5Y2hAd3AucGw=
+<~  334 UGFzc3dvcmQ6
+ ~> RFRzRmgzc0Y2YW14Q0VHUA==
+<~  235 go ahead
+ ~> MAIL FROM:<tetiana.holych@wp.pl>
+<~  250 ok
+ ~> RCPT TO:<tetiana.wolender@gmail.com>
+<~  250 ok
+ ~> DATA
+<~  354 go ahead
+ ~> Date: Sat, 01 Apr 2023 08:27:48 +0000
+ ~> To: tetiana.wolender@gmail.com
+ ~> From: tetiana.holych@wp.pl
+ ~> Subject: !!! AWARIA!!!
+ ~> Message-Id: <20230401082748.108025@c0cc94afe660>
+ ~> X-Mailer: swaks v20201014.0 jetmore.org/john/code/swaks/
+ ~> 
+ ~> !!! ALARM !!! Jednostka serverA-eth1 jest niedostępna
+ ~> !!! ALARM !!! Jednostka router jest niedostępna
+ ~> !!! ALARM !!! Jednostka camera jest niedostępna
+ ~> !!! ALARM !!! Jednostka computer jest niedostępna
+ ~> !!! ALARM !!! Jednostka server-iDRAC jest niedostępna
+ ~> !!! ALARM !!! Jednostka serverB-eth0 jest niedostępna
+ ~> !!! ALARM !!! Jednostka windows-desktop jest niedostępna
+ ~> !!! ALARM !!! Jednostka server-nvr jest niedostępna
+ ~> !!! ALARM !!! Jednostka linux-desktop jest niedostępna
+ ~> 
+ ~> 
+ ~> .
+<~  250 ok 1680337673 qp 16201 mailid 09fd27082883d5fd3cf00e7fba029554
+ ~> QUIT
+<~  221 smtp.wp.pl
+=== Connection closed with remote host.
+2023-04-01 08:35:24 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:35:24 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:35:24 Plik raportu dla jednostki serverA-eth1 nie istniał i został utworzony
+2023-04-01 08:35:24 Plik raportu dla jednostki router nie istniał i został utworzony
+2023-04-01 08:35:24 Plik raportu dla jednostki camera nie istniał i został utworzony
+2023-04-01 08:35:24 Plik raportu dla jednostki computer nie istniał i został utworzony
+2023-04-01 08:35:24 Plik raportu dla jednostki server-iDRAC nie istniał i został utworzony
+2023-04-01 08:35:24 Plik raportu dla jednostki serverB-eth0 nie istniał i został utworzony
+2023-04-01 08:35:24 Plik raportu dla jednostki windows-desktop nie istniał i został utworzony
+2023-04-01 08:35:24 Plik raportu dla jednostki server-nvr nie istniał i został utworzony
+2023-04-01 08:35:24 Plik raportu dla jednostki linux-desktop nie istniał i został utworzony
+2023-04-01 08:35:24 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:46:51 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:46:51 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:46:51 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:46:51 Plik raportu dla jednostki router istnieje
+2023-04-01 08:46:51 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:46:51 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:46:51 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:46:51 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:46:51 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:46:51 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:46:51 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:46:51 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:47:02 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:47:02 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:47:02 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:47:02 Plik raportu dla jednostki router istnieje
+2023-04-01 08:47:02 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:47:02 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:47:02 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:47:02 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:47:02 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:47:02 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:47:02 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:47:02 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:47:16 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:47:16 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:47:16 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:47:16 Plik raportu dla jednostki router istnieje
+2023-04-01 08:47:16 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:47:16 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:47:16 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:47:16 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:47:16 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:47:16 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:47:16 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:47:16 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:47:23 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:47:23 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:47:23 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:47:23 Plik raportu dla jednostki router istnieje
+2023-04-01 08:47:23 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:47:23 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:47:23 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:47:23 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:47:23 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:47:23 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:47:23 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:47:23 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:47:23 wyczyszczono zawartość pliku files.txt
+2023-04-01 08:47:23 wczytano listę plików raportów indywidualnych do pliku files.txt
+2023-04-01 08:47:23 wczytano listę plików raportów indywidualnych do zmiennej files
+2023-04-01 08:48:01 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:48:01 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:48:01 Plik raportu dla jednostki serverA-eth1 nie istniał i został utworzony
+2023-04-01 08:48:01 Plik raportu dla jednostki router nie istniał i został utworzony
+2023-04-01 08:48:01 Plik raportu dla jednostki camera nie istniał i został utworzony
+2023-04-01 08:48:01 Plik raportu dla jednostki computer nie istniał i został utworzony
+2023-04-01 08:48:01 Plik raportu dla jednostki server-iDRAC nie istniał i został utworzony
+2023-04-01 08:48:01 Plik raportu dla jednostki serverB-eth0 nie istniał i został utworzony
+2023-04-01 08:48:01 Plik raportu dla jednostki windows-desktop nie istniał i został utworzony
+2023-04-01 08:48:01 Plik raportu dla jednostki server-nvr nie istniał i został utworzony
+2023-04-01 08:48:01 Plik raportu dla jednostki linux-desktop nie istniał i został utworzony
+2023-04-01 08:48:01 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:48:02 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:48:02 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:48:02 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:48:02 Plik raportu dla jednostki router istnieje
+2023-04-01 08:48:02 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:48:02 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:48:02 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:48:02 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:48:02 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:48:02 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:48:02 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:48:02 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:48:03 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:48:03 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:48:03 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:48:03 Plik raportu dla jednostki router istnieje
+2023-04-01 08:48:03 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:48:03 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:48:03 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:48:03 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:48:03 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:48:03 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:48:03 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:48:03 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:48:04 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:48:04 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:48:04 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:48:04 Plik raportu dla jednostki router istnieje
+2023-04-01 08:48:04 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:48:04 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:48:04 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:48:04 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:48:04 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:48:04 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:48:04 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:48:04 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:48:05 wczytano tablicę adresów IP z pliku infB.txt do zmiennej ipaddr
+2023-04-01 08:48:05 wczytano tablicę nazw urządzeń do zmiennej names
+2023-04-01 08:48:05 Plik raportu dla jednostki serverA-eth1 istnieje
+2023-04-01 08:48:05 Plik raportu dla jednostki router istnieje
+2023-04-01 08:48:05 Plik raportu dla jednostki camera istnieje
+2023-04-01 08:48:05 Plik raportu dla jednostki computer istnieje
+2023-04-01 08:48:05 Plik raportu dla jednostki server-iDRAC istnieje
+2023-04-01 08:48:05 Plik raportu dla jednostki serverB-eth0 istnieje
+2023-04-01 08:48:05 Plik raportu dla jednostki windows-desktop istnieje
+2023-04-01 08:48:05 Plik raportu dla jednostki server-nvr istnieje
+2023-04-01 08:48:05 Plik raportu dla jednostki linux-desktop istnieje
+2023-04-01 08:48:05 ustawiono wartość zmiennej licznik
+rozpoczynam analizę jednostki 10.20.31.4
+Jednostka serverA-eth1 o adresie ip 10.20.31.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.1
+Jednostka router o adresie ip 10.20.30.1 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.2
+Jednostka camera o adresie ip 10.20.30.2 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.3
+Jednostka computer o adresie ip 10.20.30.3 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.4
+Jednostka server-iDRAC o adresie ip 10.20.30.4 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.5
+Jednostka serverB-eth0 o adresie ip 10.20.30.5 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.6
+Jednostka windows-desktop o adresie ip 10.20.30.6 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.7
+Jednostka server-nvr o adresie ip 10.20.30.7 jest niedostępna
+rozpoczynam analizę jednostki 10.20.30.8
+Jednostka linux-desktop o adresie ip 10.20.30.8 jest niedostępna
+2023-04-01 08:48:05 wyczyszczono zawartość pliku files.txt
+2023-04-01 08:48:05 wczytano listę plików raportów indywidualnych do pliku files.txt
+2023-04-01 08:48:05 wczytano listę plików raportów indywidualnych do zmiennej files
