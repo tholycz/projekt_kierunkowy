@@ -74,7 +74,7 @@ do
                 
     "aktualizacje")
     sysupp=$(snmpget -v 2c -c public -O qv 10.20.31.2 .1.3.6.1.4.1.6574.1.5.4.0)
-    if [ $sysupp == "0" ]
+    if [ $sysupp == "2" ]
       then
       echo " "
       echo "system operacyjny serwera nas jest aktualny"
