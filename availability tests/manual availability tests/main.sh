@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # PL: czyścimy plik z raportami z poprzednich informacji
 # EN: clear the report file before start this script from previous results
