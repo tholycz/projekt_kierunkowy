@@ -77,7 +77,7 @@ if [ -s alert.txt ]; then
         
         # PL: wysłanie raportu do osoby monitorującej IT
         # EN: send alert to IT person 
-        swaks --body ./alert.txt --to tetiana.wolender@gmail.com --from 	tetiana.holych@wp.pl --server smtp.wp.pl --port 587 --auth LOGIN --auth-user tetiana.holych@wp.pl --auth-password DTsFh3sF6amxCEGP --tls --header "Subject: !!! AWARIA w infrastrukturze IT !!!" >> log.txt
+        swaks --body ./alert.txt --to tetiana.wXXXXXX@gmail.com --from 	tetiana.hXXXXXX@wp.pl --server smtp.wp.pl --port 587 --auth LOGIN --auth-user tetiana.hXXXXXX@wp.pl --auth-password XXXXXX --tls --header "Subject: !!! AWARIA w infrastrukturze IT !!!" >> log.txt
         else
           echo "w systemie nie zainstalowano aplikacji do obsługi poczty swaks, błędne elementy infrastruktury zostaną wyświetlone na ekranie"
           echo " "
@@ -106,7 +106,7 @@ else
   
   # PL: wysyłamy informacje o 10 ostatnich poprawnych testach infrastruktury
   # EN: send 10 last passed tests like a info to IT person
-  swaks --body "Gratulujemy twoja infrastruktura w całości działa poprawnie a system weryfikacji stale i poprawnie ją weryfikuje" --to tetiana.wolender@gmail.com --from tetiana.holych@wp.pl --server smtp.wp.pl --port 587 --auth LOGIN --auth-user tetiana.holych@wp.pl --auth-password DTsFh3sF6amxCEGP --tls --header "Subject: system monitoringu i całość infrastruktury działa OK" >> log.txt
+  swaks --body "Gratulujemy twoja infrastruktura w całości działa poprawnie a system weryfikacji stale i poprawnie ją weryfikuje" --to tetiana.wXXXXXX@gmail.com --from tetiana.hXXXXXX@wp.pl --server smtp.wp.pl --port 587 --auth LOGIN --auth-user tetiana.hXXXXXX@wp.pl --auth-password XXXXXX --tls --header "Subject: system monitoringu i całość infrastruktury działa OK" >> log.txt
   
   #PL: czyścimy i ustawiamy wartość poprawnych testów na 0 w pliku liczbatestow.txt
   #EN: set number of passed tests to 0 and write to file liczbatestow.txt
