@@ -118,7 +118,7 @@ if [ $liczbatestow -ge 5 ];
         # EN: send the contents of the file alert.txt to the person who work in monitoring
         alert=`cat alert.txt`
         echo ${alert}
-        swaks --body ./alert.txt --to tetiana.wolender@gmail.com --from 	tetiana.holych@wp.pl --server smtp.wp.pl --port 587 --auth LOGIN --auth-user tetiana.holych@wp.pl --auth-password DTsFh3sF6amxCEGP --tls --header "Subject: !!! AWARIA!!!" >> log.txt
+        swaks --body ./alert.txt --to tetiana.wXXXXXX@gmail.com --from 	tetiana.hXXXXXX@wp.pl --server smtp.wp.pl --port 587 --auth LOGIN --auth-user tetiana.hXXXXXX@wp.pl --auth-password XXXXXX --tls --header "Subject: !!! AWARIA!!!" >> log.txt
       else
         echo "w systemie nie zainstalowano aplikacji do obsługi poczty swaks, błędne elementy infrastruktury zostaną wyświetlone na ekranie"
         echo " "
