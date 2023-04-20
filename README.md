@@ -10,11 +10,10 @@ Celem projektu jest zbadanie, jaką rolę pełnią systemy monitoringu IT w mech
 
 ### <div align="center"> Metodologia
 
-W ramach projektu zostaną przeprowadzone badania na temat różnych systemów monitoringu IT, w tym narzędzi do monitorowania sieci, serwerów, aplikacji oraz usług chmurowych. Przetestuję również sposoby integracji tych narzędzi z systemami automatycznego testowania i dostarczę rekomendacje dotyczące optymalnych rozwiązań w tym obszarze.
+W ramach projektu zostaną przeprowadzone badania na temat różnych systemów monitoringu IT, w tym narzędzi do monitorowania sieci i serwerów. Przetestuję również sposoby integracji tych narzędzi z systemami automatycznego testowania i dostarczę rekomendacje dotyczące optymalnych rozwiązań w tym obszarze.
 
 ### Użyte narzędzia
 - EdgeOS 
-- iDRAC 
 - iDRAC 
 - Proxmox Virtual Environment 7.3-3
 - Proxmox Virtual Environment 7.4-3
@@ -24,5 +23,5 @@ W ramach projektu zostaną przeprowadzone badania na temat różnych systemów m
 
 ### <div align="center"> Wyniki projektu
 
-Wyniki projektu zostaną udokumentowane w formie raportów, które będą dostępne w pliku finalnym pracy dyplomowej. 
-Samodzielnie napisane skrypty do niezbędnych testów oraz grafiki przygotowane celem przedstawienia infrastruktury, będą umieszczone w odpowiednich folderach.
+Wyniki projektu zostaną udokumentowane w finalnym pliku PDF niniejszej pracy dyplomowej.
+Samodzielnie napisane skrypty do niezbędnych testów oraz grafiki przygotowane celem przedstawienia infrastruktury, są umieszczone w odpowiednich folderach.
