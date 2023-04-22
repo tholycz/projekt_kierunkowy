@@ -1,18 +1,21 @@
 <div align="center">
-  <img src="https://github.com/tholycz/projekt_kierunkowy/blob/main/graphic%20materials/title.gif" alt="Tytuł" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/tholycz/projekt_kierunkowy/blob/main/graphic%20materials/title2.gif" alt="Tytuł" style="display: block; margin: 0 auto;">
 </div
   
 ---
   
 ### <div align="center"> Cel projektu
 
-Celem projektu jest zbadanie, jaką rolę pełnią systemy monitoringu IT w mechaniźmie ciągłego testowania infrastruktury i oprogramowania. Wraz z postępem technologii IT, firmy coraz bardziej uświadamiają sobie konieczność ciągłego monitorowania narzędzi wykorzystywanych w przedsiębiorstwie, w celu zapewnienia ich niezawodności i wydajności.
+Celem projektu jest przedstawienie nowego obszaru funkcjonowania klasycznie pojmowanej roli testera w kontekście projektowania, tworzenia i wdrażania testów infrastruktury IT.
 
 ### <div align="center"> Metodologia
 
-W ramach projektu zostaną przeprowadzone badania na temat różnych systemów monitoringu IT, w tym narzędzi do monitorowania sieci i serwerów. Przetestuję również sposoby integracji tych narzędzi z systemami automatycznego testowania i dostarczę rekomendacje dotyczące optymalnych rozwiązań w tym obszarze.
+1. wskazanie i stworzenie testów manualnych oraz weryfikacja poprawności ich funkcjonowania. 
+2. przeprojektowanie testów manualnych, celem automatyzacji i autonomizacji ich funkcjonowania.
+3. wdrożenie i przeprowadzenie testów na modelowej infrastrukturze.
 
-### Użyte narzędzia
+### <div align="center"> Użyte programy
+
 - EdgeOS 
 - iDRAC 
 - Proxmox Virtual Environment 7.3-3
@@ -20,8 +23,16 @@ W ramach projektu zostaną przeprowadzone badania na temat różnych systemów m
 - Synology DiskStation
 - SADP
 - draw.io (diagrams.net wersja 21.1.4)
+  
+### <div align="center"> Użyte narzędzia
+
+- ping -> weryfikacja dostępności urządzeń
+- snmpget
+- snmpwalk
+- snmp getbulk
+- swaks -> obsługa poczty (automatyzacja)
 
 ### <div align="center"> Wyniki projektu
 
-Wyniki projektu zostaną udokumentowane w finalnym pliku PDF niniejszej pracy dyplomowej.
+Wyniki projektu zostaną udokumentowane w finalnym pliku PDF pracy dyplomowej.
 Samodzielnie napisane skrypty do niezbędnych testów oraz grafiki przygotowane celem przedstawienia infrastruktury, są umieszczone w odpowiednich folderach.
