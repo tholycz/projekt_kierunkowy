@@ -6,7 +6,7 @@
   
 ### <div align="center"> Cel projektu
 
-Celem projektu jest przedstawienie nowego obszaru funkcjonowania klasycznie pojmowanej roli testera w kontekście projektowania, tworzenia i wdrażania testów infrastruktury IT.
+Celem projektu jest przedstawienie obszaru funkcjonowania klasycznie pojmowanej roli testera w kontekście projektowania, tworzenia i wdrażania testów infrastruktury IT.
 
 ### <div align="center"> Metodologia
 
@@ -35,4 +35,4 @@ Celem projektu jest przedstawienie nowego obszaru funkcjonowania klasycznie pojm
 ### <div align="center"> Wyniki projektu
 
 Wyniki projektu zostaną udokumentowane w finalnym pliku PDF pracy dyplomowej.
-Samodzielnie napisane skrypty do niezbędnych testów oraz grafiki przygotowane celem przedstawienia infrastruktury, są umieszczone w odpowiednich folderach.
+Samodzielnie napisane skrypty do niezbędnych testów oraz grafiki przygotowane celem przedstawienia infrastruktury, są umieszczone w odpowiednich folderach w niniejszym repozytorium.
